@@ -243,4 +243,6 @@ Indicado para | 	Equipes pequenas e projetos simples	| Desenvolvimento de softwa
 🔹 Trello é ótimo para tarefas visuais e equipes menores , enquanto Jira é ideal para momentos de desenvolvimento de software que precisam de controle detalhado.
 
 
+https://trello.com/b/VVsNGOEA/engenharia-de-software
+
 ![image](https://github.com/user-attachments/assets/b3d5f712-5fac-4920-86ee-ad9a209139b6)
