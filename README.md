@@ -241,3 +241,6 @@ Gerenciamento de Backlog |	Básico |	Completo
 Relatórios e Métricas	| Limitado	| Avançado
 Indicado para | 	Equipes pequenas e projetos simples	| Desenvolvimento de software e projetos complexos
 🔹 Trello é ótimo para tarefas visuais e equipes menores , enquanto Jira é ideal para momentos de desenvolvimento de software que precisam de controle detalhado.
+
+
+![image](https://github.com/user-attachments/assets/b3d5f712-5fac-4920-86ee-ad9a209139b6)
